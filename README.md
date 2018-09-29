@@ -9,6 +9,7 @@ Implementation of sorting algorithms in python
 - Heap Sort
 
 ## Comparisons
+Datasets of multiple sample sizes with random numbers are first generated. Each algorithm is run on these sets and the time taken is used to compare the performances   
 ### Time Elasped
 
 Sorting Algorithm / Sample Size  | 10 | 100 | 1000 | 10000 | 100000 | Average Performance
